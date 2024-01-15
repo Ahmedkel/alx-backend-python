@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""This module contains the function"""
 import asyncio
 from typing import List
 
